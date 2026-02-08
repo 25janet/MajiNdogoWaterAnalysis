@@ -42,7 +42,7 @@ The Power BI data model was designed using **star and multi‑star schema concep
 📸 **Screenshot Placeholder – Data Model**
 
 ```
-![Data Model](screenshots/Data_Models.png)
+![Data Model](screenshots/data_models.png)
 ```
 
 ---
@@ -73,7 +73,7 @@ Provide a **bird’s‑eye view** of water access and usage across Maji Ndogo, w
  **Screenshot Placeholder – National Overview Dashboard**
 
 ```
-![National Overview](screenshots/National_Page.png)
+![National Overview](screenshots/national_page.png)
 ```
 
 ---
@@ -95,7 +95,7 @@ Provide a **bird’s‑eye view** of water access and usage across Maji Ndogo, w
  **Screenshot Placeholder – Queue Analysis Dashboard**
 
 ```
-![Queue Analysis](screenshots/Queue_Page.png)
+![Queue Analysis](screenshots/queue_page.png)
 ```
 
 ---
@@ -112,7 +112,7 @@ Provide a **bird’s‑eye view** of water access and usage across Maji Ndogo, w
  **Screenshot Placeholder – Pollution Analysis Dashboard**
 
 ```
-![Pollution Analysis](screenshots/Pollution_Data.png)
+![Pollution Analysis](screenshots/pollution_data.png)
 ```
 
 ---
@@ -125,7 +125,7 @@ Provide a **bird’s‑eye view** of water access and usage across Maji Ndogo, w
 📸 **Screenshot Placeholder – Crime & Water Source Analysis**
 
 ```
-![Crime Analysis](screenshots/Crime_Related_Data.png)
+![Crime Analysis](screenshots/crime_related_data.png)
 ```
 
 ---
@@ -156,7 +156,8 @@ Design a **policy‑maker‑focused dashboard** answering:
  **Screenshot Placeholder – Executive Summary KPIs**
 
 ```
-![Executive KPIs](screenshots/KPI.png)
+![Executive KPIs](screenshots/kpi.png)
+
 ```
 
 ---
@@ -174,7 +175,7 @@ Design a **policy‑maker‑focused dashboard** answering:
  **Screenshot Placeholder – Budget Analysis Dashboard**
 
 ```
-![Budget Analysis](screenshots/Reports_Page.png)
+![Budget Analysis](screenshots/reports_page.png)
 ```
 
 ---
@@ -197,7 +198,7 @@ Each provincial page includes:
 📸 **Screenshot Placeholder – Provincial Dashboard**
 
 ```
-![Provincial Dashboard](screenshots/Provincial_page.png)
+![Provincial Dashboard](screenshots/provincial_page.png)
 ```
 
 ---
