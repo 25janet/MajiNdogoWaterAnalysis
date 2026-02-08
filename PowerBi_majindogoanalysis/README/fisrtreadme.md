@@ -41,9 +41,10 @@ The Power BI data model was designed using **star and multi‑star schema concep
 
 📸 **Screenshot Placeholder – Data Model**
 
-```
-![Data Model](https://github.com/25janet/MajiNdogoWaterAnalysis/blob/e1ad2e4386c13344c9d4a3f8daccd5560fb916b0/PowerBi_majindogoanalysis/README/screenshots/data_models.png)
-```
+
+![Data Model](<img width="1600" height="859" alt="image" src="https://github.com/user-attachments/assets/0f7af834-4c25-4652-a8ee-0a7ccf29a218" />
+)
+
 
 ---
 
