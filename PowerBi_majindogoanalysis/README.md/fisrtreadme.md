@@ -49,13 +49,13 @@ The Power BI data model was designed using **star and multi‑star schema concep
 
 # 🔹 PART 2: National‑Level Analysis & Visual Exploration
 
-### 🎯 Objective
+###  Objective
 
 Provide a **bird’s‑eye view** of water access and usage across Maji Ndogo, while enabling interactive exploration of queues, pollution, and demographics.
 
 ---
 
-## 📍 National Overview Page
+##  National Overview Page
 
 ### Visualizations Created
 
@@ -70,15 +70,15 @@ Provide a **bird’s‑eye view** of water access and usage across Maji Ndogo, w
 
 5. **Column Chart – Count of Water Sources by Type**
 
-📸 **Screenshot Placeholder – National Overview Dashboard**
+ **Screenshot Placeholder – National Overview Dashboard**
 
 ```
-![National Overview]("C:\Users\user\Videos\Captures\powerbi_screenshot\Power BI Desktop 2_8_2026 9_37_05 AM.png")
+![National Overview](screenshots/National_Page.png)
 ```
 
 ---
 
-## ⏱️ Queue Analysis Page
+##  Queue Analysis Page
 
 ### Visualizations Created
 
@@ -92,10 +92,10 @@ Provide a **bird’s‑eye view** of water access and usage across Maji Ndogo, w
 
 > This page demonstrates **multi‑visual filtering** and advanced user interaction.
 
-📸 **Screenshot Placeholder – Queue Analysis Dashboard**
+ **Screenshot Placeholder – Queue Analysis Dashboard**
 
 ```
-![Queue Analysis]("C:\Users\user\Videos\Captures\powerbi_screenshot\Power BI Desktop 2_8_2026 9_38_23 AM.png")
+![Queue Analysis](screenshots/Queue_Page.png)
 ```
 
 ---
@@ -109,10 +109,10 @@ Provide a **bird’s‑eye view** of water access and usage across Maji Ndogo, w
 11. **Composition Chart – Pollution Results**
     (Clean, Chemically Contaminated, Biologically Contaminated)
 
-📸 **Screenshot Placeholder – Pollution Analysis Dashboard**
+ **Screenshot Placeholder – Pollution Analysis Dashboard**
 
 ```
-![Pollution Analysis]("C:\Users\user\Videos\Captures\powerbi_screenshot\Power BI Desktop 2_8_2026 9_38_56 AM.png")
+![Pollution Analysis](screenshots/Pollution_Data.png)
 ```
 
 ---
@@ -125,7 +125,7 @@ Provide a **bird’s‑eye view** of water access and usage across Maji Ndogo, w
 📸 **Screenshot Placeholder – Crime & Water Source Analysis**
 
 ```
-![Crime Analysis]("C:\Users\user\Videos\Captures\powerbi_screenshot\Power BI Desktop 2_8_2026 9_39_38 AM.png")
+![Crime Analysis](screenshots/Crime_Related_Data.png)
 ```
 
 ---
@@ -143,7 +143,7 @@ Design a **policy‑maker‑focused dashboard** answering:
 
 ---
 
-## 🧠 Executive Summary Section
+##  Executive Summary Section
 
 ### Visualizations Created
 
@@ -153,10 +153,10 @@ Design a **policy‑maker‑focused dashboard** answering:
 * Current % of Basic Water Access
 * % Improvement After Project Completion
 
-📸 **Screenshot Placeholder – Executive Summary KPIs**
+ **Screenshot Placeholder – Executive Summary KPIs**
 
 ```
-![Executive KPIs]("C:\Users\user\Videos\Captures\powerbi_screenshot\Power BI Desktop 2_8_2026 9_49_13 AM.png")
+![Executive KPIs](screenshots/KPI.png)
 ```
 
 ---
@@ -171,21 +171,19 @@ Design a **policy‑maker‑focused dashboard** answering:
 
 16. **Donut / Percentage Chart – Budget Allocation per Province**
 
-📸 **Screenshot Placeholder – Budget Analysis Dashboard**
+ **Screenshot Placeholder – Budget Analysis Dashboard**
 
 ```
-![Budget Analysis]("C:\Users\user\Videos\Captures\powerbi_screenshot\Power BI Desktop 2_8_2026 9_49_13 AM.png")
+![Budget Analysis](screenshots/Reports_Page.png)
 ```
-```
-![Budget Analysis]("C:\Users\user\Videos\Captures\powerbi_screenshot\Power BI Desktop 2_8_2026 9_58_04 AM.png")
-```
+
 ---
 
 
 
 ---
 
-## 🏙️ Provincial Drill‑Through Pages
+##  Provincial Drill‑Through Pages
 
 17. **Province‑Specific Dashboards**
 
@@ -199,7 +197,7 @@ Each provincial page includes:
 📸 **Screenshot Placeholder – Provincial Dashboard**
 
 ```
-![Provincial Dashboard]("C:\Users\user\Videos\Captures\powerbi_screenshot\Power BI Desktop 2_8_2026 9_52_44 AM.png")
+![Provincial Dashboard](screenshots/Provincial_page.png)
 ```
 
 ---
