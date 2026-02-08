@@ -1,7 +1,7 @@
 #  Power BI Water Access Analysis – Maji Ndogo
 
 > **Portfolio Project | Power BI | Data Visualization & Analytics**
-> **Author:** Shiru
+> **Author:** Janet Wanjiru John
 
 ---
 

@@ -1,7 +1,7 @@
 #  Power BI Report – Water Access Analysis (Maji Ndogo)
 **Project Parts:** Part 2 & Part 3  
 **Tool:** Microsoft Power BI  
-**Author:** Shiru  
+**Author:** Janet Wanjiru John   
 **Project Type:** Data Visualization & Analytics Portfolio  
 
 ---
