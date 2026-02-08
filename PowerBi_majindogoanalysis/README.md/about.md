@@ -1,4 +1,4 @@
-# 📊 Power BI Report – Water Access Analysis (Maji Ndogo)
+#  Power BI Report – Water Access Analysis (Maji Ndogo)
 **Project Parts:** Part 2 & Part 3  
 **Tool:** Microsoft Power BI  
 **Author:** Shiru  
@@ -33,7 +33,7 @@ The goal was to build **decision-maker–focused Power BI dashboards** that tran
 
 # 🔹 PART 2: National-Level Analysis & Visual Exploration
 
-### 🎯 Objective
+###  Objective
 To provide a **bird’s-eye view** of water access and usage across Maji Ndogo and explore patterns in **queues, pollution, and demographics**.
 
 ---
@@ -128,7 +128,7 @@ To design a **policy-maker–focused report** that answers:
 
 ##  Budget & Investment Analysis – Visualizations
 
-### 📋 14. Budget Table by Province
+###  14. Budget Table by Province
 - Total cost of upgrades per province
 
 ###  15. Budget Table by Improvement Type
@@ -139,20 +139,11 @@ To design a **policy-maker–focused report** that answers:
 
 ---
 
-##  Bookmark & Navigation Design
 
-###  17. Interactive Bookmarks
-- **Province View**
-- **Improvements View**
-- Toggle using buttons and selection pane
-
-This allows decision-makers to **switch focus without cluttering the report**.
-
----
 
 ##  Provincial Drill-Through Pages
 
-###  18. Provincial-Level Dashboards
+###  17. Provincial-Level Dashboards
 For each province:
 - Urban vs Rural population split
 - Budget allocation visuals

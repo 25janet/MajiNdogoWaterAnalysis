@@ -1,11 +1,11 @@
-# 📊 Power BI Water Access Analysis – Maji Ndogo
+#  Power BI Water Access Analysis – Maji Ndogo
 
 > **Portfolio Project | Power BI | Data Visualization & Analytics**
 > **Author:** Shiru
 
 ---
 
-## 🧭 Project Overview
+##  Project Overview
 
 This project showcases an end-to-end **Power BI analytics workflow**, transforming complex, multi-table data into **interactive, decision‑maker‑focused dashboards**.
 
@@ -18,7 +18,7 @@ The report is structured into **two major parts**:
 
 ---
 
-## 🧱 Data Model Overview
+##  Data Model Overview
 
 The Power BI data model was designed using **star and multi‑star schema concepts** to support efficient filtering and cross‑visual interaction.
 
@@ -42,7 +42,7 @@ The Power BI data model was designed using **star and multi‑star schema concep
 📸 **Screenshot Placeholder – Data Model**
 
 ```
-![Data Model]("C:\Users\user\Videos\Captures\powerbi_screenshot\Power BI Desktop 2_8_2026 9_34_45 AM.png")
+![Data Model](screenshots/Data_Models.png)
 ```
 
 ---
