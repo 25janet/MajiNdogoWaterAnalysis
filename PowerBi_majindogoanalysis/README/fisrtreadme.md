@@ -39,11 +39,12 @@ The Power BI data model was designed using **star and multi‑star schema concep
 * Power Query transformations
 * Calculated columns and measures (DAX)
 
-📸 **Screenshot Placeholder – Data Model**
+ **Screenshot Placeholder – Data Model**
 
 
-![Data Model](<img width="1600" height="859" alt="image" src="https://github.com/user-attachments/assets/0f7af834-4c25-4652-a8ee-0a7ccf29a218" />
-)
+
+![Data Model](screenshots/data_models.png)
+
 
 
 ---
@@ -73,9 +74,9 @@ Provide a **bird’s‑eye view** of water access and usage across Maji Ndogo, w
 
  **Screenshot Placeholder – National Overview Dashboard**
 
-```
+
 ![National Overview](screenshots/national_page.png)
-```
+
 
 ---
 
@@ -95,13 +96,13 @@ Provide a **bird’s‑eye view** of water access and usage across Maji Ndogo, w
 
  **Screenshot Placeholder – Queue Analysis Dashboard**
 
-```
+
 ![Queue Analysis](screenshots/queue_page.png)
-```
+
 
 ---
 
-## 🧪 Pollution Analysis Page
+##  Pollution Analysis Page
 
 ### Visualizations Created
 
@@ -112,28 +113,28 @@ Provide a **bird’s‑eye view** of water access and usage across Maji Ndogo, w
 
  **Screenshot Placeholder – Pollution Analysis Dashboard**
 
-```
+
 ![Pollution Analysis](screenshots/pollution_data.png)
-```
+
 
 ---
 
-## 🔗 Crime & Water Source Correlation
+##  Crime & Water Source Correlation
 
 12. **Crime‑Linked Water Source Visuals**
     Connects historical crime data to water source locations to explore safety‑access relationships.
 
-📸 **Screenshot Placeholder – Crime & Water Source Analysis**
+ **Screenshot Placeholder – Crime & Water Source Analysis**
 
-```
+
 ![Crime Analysis](screenshots/crime_related_data.png)
-```
+
 
 ---
 
 # 🔹 PART 3: Executive & Financial Decision‑Making Dashboard
 
-### 🎯 Objective
+###  Objective
 
 Design a **policy‑maker‑focused dashboard** answering:
 
@@ -156,14 +157,14 @@ Design a **policy‑maker‑focused dashboard** answering:
 
  **Screenshot Placeholder – Executive Summary KPIs**
 
-```
+
 ![Executive KPIs](screenshots/kpi.png)
 
-```
+
 
 ---
 
-## 💰 Budget & Investment Analysis
+##  Budget & Investment Analysis
 
 ### Visualizations Created
 
@@ -175,9 +176,9 @@ Design a **policy‑maker‑focused dashboard** answering:
 
  **Screenshot Placeholder – Budget Analysis Dashboard**
 
-```
+
 ![Budget Analysis](screenshots/reports_page.png)
-```
+
 
 ---
 
@@ -196,11 +197,11 @@ Each provincial page includes:
 * Town‑level infrastructure costs
 * Drill‑through navigation from the national dashboard
 
-📸 **Screenshot Placeholder – Provincial Dashboard**
+ **Screenshot Placeholder – Provincial Dashboard**
 
-```
+
 ![Provincial Dashboard](screenshots/provincial_page.png)
-```
+
 
 ---
 
@@ -215,7 +216,7 @@ Each provincial page includes:
 
 ---
 
-## 🚀 Portfolio Value
+##  Portfolio Value
 
 This project demonstrates my ability to:
 
